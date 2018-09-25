@@ -2,6 +2,10 @@
 
 Changelog for Hamburgers.
 
+## [1.0.0] - 9/24/2018
+### Added
+- Changing color of the hamburger in the active state [#20](https://github.com/jonsuh/hamburgers/pull/20)
+
 ## [0.9.3] - 1/15/2018
 ### Fixed
 - Missing `@if` statements in `arrowturn` and `arrowturn-r` variants [#51](https://github.com/jonsuh/hamburgers/pull/51).
