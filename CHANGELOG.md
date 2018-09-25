@@ -4,7 +4,7 @@ Changelog for Hamburgers.
 
 ## [1.0.0] - 9/24/2018
 ### Added
-- Changing color of the hamburger in the active state [#20](https://github.com/jonsuh/hamburgers/pull/20)
+- Changing color of the hamburger in the active state thanks to @andreamaiolo [#20](https://github.com/jonsuh/hamburgers/pull/20)
 
 ## [0.9.3] - 1/15/2018
 ### Fixed
